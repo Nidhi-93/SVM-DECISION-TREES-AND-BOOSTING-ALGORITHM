@@ -1,0 +1,2 @@
+# SVM-DECISION-TREES-AND-BOOSTING-ALGORITHM
+This project is about the implementation of three supervised learning methods namely, Support Vector Machine (SVM), Decision Tree, and Boosting on two distinct data sets i.e. SGEMM GPU kernel performance Data Set. The goal is to analyse and understand the behaviour of these supervised learning methods on the datasets. The algorithms are performed with the help of Sckitlearn library in Python language (on Jupyter notebook).
